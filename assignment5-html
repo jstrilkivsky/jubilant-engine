@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+<header>Interactive Media Design</header>
+    <link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet'>
+
+<nav>
+    <ul>
+        <li>About</li>
+        <li>Work</li>
+        <li>Contact</li>
+    </ul>
+</nav>
+    
+
+    <meta charset="UTF-8">
+    <title>Julia Strilkivsky</title>
+    <style>
+        header{
+            background-color:#d1633c;
+            font-family: 'Candal';font-size: 28px;
+            color: white;
+            padding: 1em;
+            text-align: center;
+            }
+        body{
+            background-color: #c8ded8;
+            margin: 0 15%;
+            font-family: sans-serif;
+            }
+        h1{
+            text-align:justify;
+            font-family: serif;
+            font-weight: normal;
+            text-transform: uppercase;
+            margin-top: 30px;
+            }
+        h2{
+            color: #d1633c;
+            font-size: 1em;
+            }
+        footer{
+            text-align: right;
+            font-size: 8pt;
+            }
+    </style>
+
+    
+<section>    
+<body>
+    
+    <h1>Julia Strilkivsky</h1>
+    
+    <h2>About Me</h2>
+        <p>I am a senior at the College of Journalism and Mass Communications and UNL, majoring in Advertising and Public Relations and minoring in Business. I am an ambassador for CoJMC and I <em>love</em> doing photography.</p>
+    <h2>Classes This Semester</h2>
+        <p>Design and Layout<br>Interactive Media Design<br>Mass Media Law<br>Financial Decision Making<br>Human the Digital Age</p>
+    <h2>Outside of Class</h2>
+        <p>Outisde of class you will probably find me doing photography, cooking, mentoring or hanging out with friends.</p>
+    <h2>After Graduation</h2>
+        <p>I will continue doing photography, however, with my degree, I would really like to pursue design, more specifically UX/UI design.</p>
+   
+    
+</body>
+</section>
+    
+<aside>
+    <h1><img src="images/julia.jpg" alt="Julia Strilkivsky"></h1>
+</aside>
+    
+<footer>
+    <p>
+        © 2020 Julia Strilkivsky
+    </p>
+</footer>
+</html>
